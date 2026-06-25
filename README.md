@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I'm currently working on — AI-powered apps using LLMs and Generative AI<br>🤝 I'm looking to collaborate on — ML and AI projects<br>🤝 I'm looking for help with — Deep Learning and open-source AI projects<br>🌱 I'm currently learning — Generative AI, Prompt Engineering & DSA<br>💬 Ask me about — Python, Machine Learning & LLMs<br>⚡ Fun fact — Completed an ML internship in my 2nd year of B.Tech!
+#  About Me:
+B.Tech student passionate about Software Development, Web Development, and Problem Solving.
+
+Currently learning Full-Stack Development while consistently practicing Data Structures and Algorithms to strengthen my coding skills. With a background in Artificial Intelligence and Machine Learning, I enjoy exploring technology, building projects, and continuously improving as a developer.
+
+Focused on gaining practical experience, preparing for internships, and developing solutions that create real-world impact.
+
+Tech Interests: Web Development • DSA • Java • AI/ML • Software Engineering • Open Source
 
 
 ## 🌐 Socials:
